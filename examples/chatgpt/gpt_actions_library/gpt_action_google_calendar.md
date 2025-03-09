@@ -1,4 +1,4 @@
-# GPT Action Library: Google Calendar
+# O GPT Action Library: Google Calendar
 
 ## Introduction
 
